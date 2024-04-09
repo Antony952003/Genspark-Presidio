@@ -1,1 +1,1 @@
-This is the new message for git
+This is the new message for git and its done
